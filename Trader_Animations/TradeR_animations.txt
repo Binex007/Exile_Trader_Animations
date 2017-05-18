@@ -1,0 +1,147 @@
+
+---------------ANNIMATION DESCRIPTION ---------------- Generic Standing around with a rifle
+c4coming2cDf_genericstani1
+c4coming2cDf_genericstani2
+c4coming2cDf_genericstani3 
+---------------ANNIMATION DESCRIPTION ---------------- Sitting, chillin the fuck out of his life
+c5efe_MichalLoop 
+---------------ANNIMATION DESCRIPTION ---------------- Standing without a gun, like a boss
+HubBriefing_loop
+HubBriefing_scratch
+HubBriefing_stretch
+HubBriefing_think 
+---------------ANNIMATION DESCRIPTION ---------------- Swimming with a gun
+AdvePercMstpSnonWrflDnon
+AdvePercMstpSnonWrflDnon_relax 
+---------------ANNIMATION DESCRIPTION ---------------- Treating wounded
+Acts_TreatingWounded01
+Acts_TreatingWounded02
+Acts_TreatingWounded03
+Acts_TreatingWounded04
+Acts_TreatingWounded05
+Acts_TreatingWounded06 
+Acts_LyingWounded_loop1
+Acts_LyingWounded_loop2
+Acts_LyingWounded_loop3 
+---------------ANNIMATION DESCRIPTION ---------------- Swimming, no gun
+AdvePercMstpSnonWnonDnon_relax
+AdvePercMstpSnonWnonDnon 
+---------------ANNIMATION DESCRIPTION ---------------- Prone, fixing vehicle, no gun, without movement
+HubFixingVehicleProne_idle1 
+---------------ANNIMATION DESCRIPTION ---------------- Standing, fixing vehicle
+InBaseMoves_assemblingVehicleErc 
+---------------ANNIMATION DESCRIPTION ---------------- Crouching, fixing vehicle, our crafting animation
+Acts_carFixingWheel 
+---------------ANNIMATION DESCRIPTION ---------------- Our vehicle trader animations
+InBaseMoves_repairVehicleKnl
+InBaseMoves_repairVehiclePne 
+---------------ANNIMATION DESCRIPTION ---------------- Sitting at table on computer
+HubSittingAtTableU_idle1
+HubSittingAtTableU_idle2
+HubSittingAtTableU_idle3 
+---------------ANNIMATION DESCRIPTION ---------------- Sitting on a chair, with a rifle
+HubSittingChairA_idle1
+HubSittingChairA_idle2
+HubSittingChairA_idle3
+HubSittingChairA_move1 
+---------------ANNIMATION DESCRIPTION ---------------- Sitting on a chair, not sure if rifle, pistol or unarmed
+HubSittingChairB_idle1
+HubSittingChairB_idle2
+HubSittingChairB_idle3
+HubSittingChairB_move1 
+---------------ANNIMATION DESCRIPTION ---------------- Sitting on a chair, probably a rifle
+HubSittingChairC_idle1
+HubSittingChairC_idle2
+HubSittingChairC_idle3
+HubSittingChairC_move1 
+---------------ANNIMATION DESCRIPTION ---------------- Sitting on a chair, with a rifle, like a boss
+InBaseMoves_SittingRifle1
+InBaseMoves_SittingRifle2 
+---------------ANNIMATION DESCRIPTION ---------------- Standing, no rifle, on a table. Maybe a counter (our food trader thing?)
+InBaseMoves_table1 
+---------------ANNIMATION DESCRIPTION ---------------- Standing, no rifle, aircraft trader
+LHD_krajPaluby 
+---------------ANNIMATION DESCRIPTION ---------------- Sitting on a chair, probably NO rifle
+HubSittingChairUA_idle1
+HubSittingChairUA_idle2
+HubSittingChairUA_idle3
+HubSittingChairUA_move1 
+---------------ANNIMATION DESCRIPTION ---------------- Sitting on a chair, no rifle
+HubSittingChairUB_idle1
+HubSittingChairUB_idle2
+HubSittingChairUB_idle3
+HubSittingChairUB_move1 
+---------------ANNIMATION DESCRIPTION ---------------- Sitting on a chair, no rifle <<< EXTRA CHILLIN
+HubSittingChairUC_idle1
+HubSittingChairUC_idle2
+HubSittingChairUC_idle3
+HubSittingChairUC_move1 
+---------------ANNIMATION DESCRIPTION ---------------- IRONMAN TRAINING
+AmovPercMstpSnonWnonDnon_exercisePushup
+AmovPercMstpSnonWnonDnon_exercisePushup
+AmovPercMstpSnonWnonDnon_exercisekneeBendA
+AmovPercMstpSnonWnonDnon_exercisekneeBendA
+AmovPercMstpSnonWnonDnon_exercisekneeBendB 
+---------------ANNIMATION DESCRIPTION ---------------- Sitting up HIGH (?), with a rifle
+sitTableRfl_listening 
+---------------ANNIMATION DESCRIPTION ---------------- Sitting up HIGH (?), with a rifle
+HubSittingHighA_idle1 
+HubSittingHighB_move1 
+---------------ANNIMATION DESCRIPTION ---------------- Sitting up HIGH (?), with a rifle
+HubSittingHighB_idle1
+HubSittingHighB_idle2
+HubSittingHighB_idle3 
+---------------ANNIMATION DESCRIPTION ---------------- Standing, with a rifle
+HubStanding_idle1
+HubStanding_idle2
+HubStanding_idle3 
+---------------ANNIMATION DESCRIPTION ---------------- Standing, no rifle
+HubStandingUA_idle1
+HubStandingUA_idle2
+HubStandingUA_idle3
+HubStandingUA_move1
+HubStandingUA_move2 
+---------------ANNIMATION DESCRIPTION ---------------- Standing, no rifle, probably needs a gun belt to look okay
+HubStandingUB_idle1
+HubStandingUB_idle2
+HubStandingUB_idle3
+HubStandingUB_move1 
+---------------ANNIMATION DESCRIPTION ---------------- Standing, no rifle, looks like a diva
+HubStandingUC_idle1
+HubStandingUC_idle2
+HubStandingUC_idle3
+HubStandingUC_move1
+HubStandingUC_move2 
+---------------ANNIMATION DESCRIPTION ---------------- Standing, hands behind back, could be prisoner
+InBaseMoves_HandsBehindBack1
+InBaseMoves_HandsBehindBack2 
+---------------ANNIMATION DESCRIPTION ---------------- Patrolling moves, maybe for guards
+InBaseMoves_patrolling1
+InBaseMoves_patrolling2 
+---------------ANNIMATION DESCRIPTION ---------------- Standing, no rifle, hands behind back
+UnaErcPoslechVelitele1
+UnaErcPoslechVelitele2
+UnaErcPoslechVelitele3
+UnaErcPoslechVelitele4 
+---------------ANNIMATION DESCRIPTION ---------------- Lying (?), rifle
+Acts_InjuredLookingRifle01
+Acts_InjuredLookingRifle02
+Acts_InjuredLookingRifle03
+Acts_InjuredLookingRifle04
+Acts_InjuredLookingRifle05 
+---------------ANNIMATION DESCRIPTION ---------------- Standing, no rifle
+Acts_CivilListening_2 
+---------------ANNIMATION DESCRIPTION ---------------- Prisoner, sitting
+Acts_AidlPsitMstpSsurWnonDnon01
+Acts_AidlPsitMstpSsurWnonDnon02
+Acts_AidlPsitMstpSsurWnonDnon03
+Acts_AidlPsitMstpSsurWnonDnon04
+Acts_AidlPsitMstpSsurWnonDnon05 
+---------------ANNIMATION DESCRIPTION ---------------- Sitting on the ground, rifle
+AmovPsitMstpSrasWrflDnon_WeaponCheck1
+AmovPsitMstpSrasWrflDnon_WeaponCheck2
+AmovPsitMstpSrasWrflDnon_Smoking 
+---------------ANNIMATION DESCRIPTION ---------------- Sitting on the ground, no rifle
+Acts_passenger_flatground_leanright 
+
+
